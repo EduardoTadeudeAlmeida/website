@@ -1,0 +1,4 @@
+body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f4f4f4; }
+header { background: #0078d4; color: white; padding: 1rem; text-align: center; }
+article { background: white; margin: 10px 0; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+h2 { color: #0078d4; }
